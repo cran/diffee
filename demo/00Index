@@ -1,1 +1,4 @@
-diffeeDemo   A demo for diffee algorithm
+diffee   A brief demo for diffee algorithm including data from cancer, simulated gaussian and word count
+cancer   A more detailed demo for diffee algorithm with cancer data
+synthetic  A more detailed demo for diffee algorithm with synthetic gaussian data
+word      A more detailed demo for diffee algorithm with word count data
